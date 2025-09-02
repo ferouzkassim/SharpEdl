@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "sharpedl/1.0.0": {
+      "sharpEdl/1.0.0": {
         "dependencies": {
           "LibUsbDotNet": "2.2.75",
           "System.IO.Ports": "9.0.8"
         },
         "runtime": {
-          "sharpedl.dll": {}
+          "sharpEdl.dll": {}
         }
       },
       "LibUsbDotNet/2.2.75": {
@@ -232,7 +232,7 @@
     }
   },
   "libraries": {
-    "sharpedl/1.0.0": {
+    "sharpEdl/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

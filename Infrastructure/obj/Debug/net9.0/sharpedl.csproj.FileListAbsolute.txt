@@ -10,3 +10,16 @@
 /Users/Sara/Desktop/sharpEdl/Infrastructure/obj/Debug/net9.0/refint/sharpedl.dll
 /Users/Sara/Desktop/sharpEdl/Infrastructure/obj/Debug/net9.0/sharpedl.pdb
 /Users/Sara/Desktop/sharpEdl/infrastructure/obj/Debug/net9.0/ref/sharpedl.dll
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\bin\Debug\net9.0\sharpEdl.deps.json
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\bin\Debug\net9.0\sharpEdl.dll
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\bin\Debug\net9.0\sharpEdl.pdb
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\obj\Debug\net9.0\sharpEdl.csproj.AssemblyReference.cache
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\obj\Debug\net9.0\sharpEdl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\obj\Debug\net9.0\sharpEdl.AssemblyInfoInputs.cache
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\obj\Debug\net9.0\sharpEdl.AssemblyInfo.cs
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\obj\Debug\net9.0\sharpEdl.csproj.CoreCompileInputs.cache
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\obj\Debug\net9.0\sharpEdl.sourcelink.json
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\obj\Debug\net9.0\sharpEdl.dll
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\obj\Debug\net9.0\refint\sharpEdl.dll
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\obj\Debug\net9.0\sharpEdl.pdb
+C:\Users\DROID\source\repos\SharpEdl\Infrastructure\obj\Debug\net9.0\ref\sharpEdl.dll

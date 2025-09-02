@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "Presentation/1.0.0": {
         "dependencies": {
-          "sharpedl": "1.0.0"
+          "sharpEdl": "1.0.0"
         },
         "runtime": {
           "Presentation.dll": {}
@@ -228,13 +228,13 @@
         }
       },
       "System.Security.Principal.Windows/5.0.0": {},
-      "sharpedl/1.0.0": {
+      "sharpEdl/1.0.0": {
         "dependencies": {
           "LibUsbDotNet": "2.2.75",
           "System.IO.Ports": "9.0.8"
         },
         "runtime": {
-          "sharpedl.dll": {
+          "sharpEdl.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -409,7 +409,7 @@
       "path": "system.security.principal.windows/5.0.0",
       "hashPath": "system.security.principal.windows.5.0.0.nupkg.sha512"
     },
-    "sharpedl/1.0.0": {
+    "sharpEdl/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

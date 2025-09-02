@@ -1,6 +1,6 @@
 namespace sharpEdl
 {
-    public enum Command : ulong
+    public enum Command : uint
     {
         SAHARA_HELLO_REQ = 0x1,
         SAHARA_HELLO_RSP = 0x2,
